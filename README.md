@@ -1,5 +1,1 @@
-🥳 Hi 🥳 
-
-## 🏆 GitHub Trophies
-
-
+Hello
