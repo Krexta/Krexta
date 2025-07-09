@@ -7,4 +7,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krexta&show_icons=true&locale=en&theme=dark" alt="Krexta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krexta&theme=dark" alt="Krexta" /></p>
+
