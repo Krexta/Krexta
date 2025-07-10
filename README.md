@@ -55,9 +55,9 @@ I'm passionate about coding, open-source, and exploring new technologies. Welcom
 ![Krexta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krexta&show_icons=true&locale=en&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Krexta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Krexta&theme=radical&no-frame=false&no-bg=true&margin-w=1)
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krexta&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 
