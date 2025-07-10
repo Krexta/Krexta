@@ -1,10 +1,31 @@
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+## 👋 Hi there! I'm Krexta
+
+I'm passionate about coding, open-source, and exploring new technologies. Welcome to my GitHub profile!
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krexta&theme=juicyfresh" alt="Krexta" /></a> </p>
+## 🛠️ Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krexta&show_icons=true&locale=en&layout=compact&theme=dark" alt="Krexta" /></p>
+- **Programming Languages:** JavaScript, Python, C++
+- **Frameworks & Libraries:** React, Node.js, Django
+- **Tools & Platforms:** Docker, AWS, Git
+- **Others:** Machine Learning, Data Analysis
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krexta&show_icons=true&locale=en&theme=dark" alt="Krexta" /></p>
+## 🚀 Projects
+
+- [AI color simulation](https://github.com/Krexta/ai-color-sumulation): AI-based color simulation application
+
+## 📊 GitHub Stats
+
+![Krexta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krexta&show_icons=true&locale=en&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Krexta's Trophy](https://github-profile-trophy.vercel.app/?username=Krexta&theme=juicyfresh&column=4)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Feel free to reach out or star my repositories!
 
 
