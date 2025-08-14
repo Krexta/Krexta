@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FFFD0&height=70&section=header"/>
 
 ## 👋 Hi there! I'm Krexta
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 I'm passionate about coding, open-source, and exploring new technologies. Welcome to my GitHub profile!
 
 
